@@ -1,8 +1,8 @@
 # linear-algebra-transform
 simple visualisation of linear matrix transformations
 
-## code example
-demo.py
+## Code example
+File: demo.py
 ```python
 from Graph import *
 from screen import *
@@ -38,5 +38,10 @@ screen.setFPS(60)
 
 screen.start()
 ```
-## screenshot
+## Screenshot
 ![screenshot](screenshot.png)
+
+## Dependencies
+- Pygame
+- Numpy
+- Python 3.3+
